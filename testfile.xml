@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Products>
+   <Product>
+    <Barcode>4250258448635</Barcode>
+    <SKU>CB0040</SKU>
+    <Bezeichnung>Mamie chérie</Bezeichnung>
+    <Beschreibung>Carte double + enveloppe sous cellophane
+Intérieur: blanc
+Couleur enveloppe: blanche
+Dimension: 17 x 12 cm
+</Beschreibung>
+    <Zusatz></Zusatz>
+    <Listenpreis>1,50</Listenpreis>
+    <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>FR</Value>
+      <Preis>1,50</Preis>
+    </Option>
+    <Available>true</Available>
+    <ShopAktiv>true</ShopAktiv>
+    <Künstlervorname></Künstlervorname>
+    <Künstlernachname></Künstlernachname>
+    <Title></Title>
+    <SEOKeywords></SEOKeywords>
+    <SEODescription>Neu, Neuheit, test</SEODescription>
+    <Papierbreite>0</Papierbreite>
+    <Papierhöhe>0</Papierhöhe>
+    <VPE>6</VPE>
+    <Vertriebsgebiet>FR</Vertriebsgebiet>
+      <Category>Grußkarten,Grußkarten_Klappkarten "Everyday",Grußkarten_Klappkarten "Everyday"_Cosmic Bob</Category>
+  </Product>
+	 <Product>
+    <Barcode>4250258447201</Barcode>
+    <SKU>P1648</SKU>
+    <Bezeichnung>Touch of Classic Note Set X-Mas</Bezeichnung>
+    <Beschreibung>Pack Touch of Classic Note 
+bestehend aus 5 Karten + 5 Umschlägen
+Motiv 1648</Beschreibung>
+    <Zusatz>Motive 1648</Zusatz>
+    <Listenpreis>5,50</Listenpreis>
+    <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>AT</Value>
+      <Preis>9,50</Preis>
+    </Option>
+    <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>D</Value>
+      <Preis>5,50</Preis>
+    </Option>
+    <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>FR</Value>
+      <Preis>6,50</Preis>
+    </Option>
+    <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>Q</Value>
+      <Preis>5,50</Preis>
+    </Option>
+    <Available>false</Available>
+    <ShopAktiv>false</ShopAktiv>
+    <Künstlervorname></Künstlervorname>
+    <Künstlernachname></Künstlernachname>
+    <Title></Title>
+    <SEOKeywords></SEOKeywords>
+    <SEODescription> Nouveautés, Nouveauté, nouveau, new, Neu, Neuheit, Neuheiten, Weihnachten, Set, Christmas, Fêtes, Noël, Schneemann</SEODescription>
+    <Papierbreite>0</Papierbreite>
+    <Papierhöhe>0</Papierhöhe>
+    <VPE>1</VPE>
+    <Vertriebsgebiet>Q</Vertriebsgebiet>
+    <Category>Grußkarten,Grußkarten_Klappkarten "Christmas",Grußkarten_Klappkarten "Christmas"_Kartenboxen</Category>
+  </Product>
+</Products>

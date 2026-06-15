@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Customers>
+  <Customer>
+    <Nummer>30140</Nummer>
+    <Email>2amandinemantel@gmail.com</Email>
+    <PLZ>73100</PLZ>
+    <Firma>Tabac La Civette</Firma>
+    <Land>FR</Land>
+    <Sprache>F</Sprache>
+    <Vertriebsgebiete>
+      <Vertriebsgebiet>Q</Vertriebsgebiet>
+      <Vertriebsgebiet>FR</Vertriebsgebiet>
+    </Vertriebsgebiete>
+  </Customer>
+  <Customer>
+    <Nummer>30120</Nummer>
+    <Email>2superu.embrun.compta@systeme-u.fr</Email>
+    <PLZ>05200</PLZ>
+    <Firma>SUPER U </Firma>
+    <Land>FR</Land>
+    <Sprache>F</Sprache>
+    <Vertriebsgebiete>
+      <Vertriebsgebiet>Q</Vertriebsgebiet>
+      <Vertriebsgebiet>FR</Vertriebsgebiet>
+    </Vertriebsgebiete>
+  </Customer>
+  <Customer>
+    <Nummer>30156</Nummer>
+    <Email>2boutiquefarfantello@gmail.com</Email>
+    <PLZ>13200</PLZ>
+    <Firma>Farfantello</Firma>
+    <Land>FR</Land>
+    <Sprache>F</Sprache>
+    <Vertriebsgebiete>
+      <Vertriebsgebiet>Q</Vertriebsgebiet>
+      <Vertriebsgebiet>FR</Vertriebsgebiet>
+    </Vertriebsgebiete>
+  </Customer>
+  <Customer>
+    <Nummer>13027</Nummer>
+    <Email>2petitsdhomme@orange.fr</Email>
+    <PLZ>23000</PLZ>
+    <Firma>Boutiques Petits d´Homme</Firma>
+    <Land>FR</Land>
+    <Sprache>F</Sprache>
+    <Vertriebsgebiete>
+      <Vertriebsgebiet>Q</Vertriebsgebiet>
+      <Vertriebsgebiet>FR</Vertriebsgebiet>
+    </Vertriebsgebiete>
+  </Customer>
+  <Customer>
+    <Nummer>42501</Nummer>
+    <Email>2gruetvirginie@gmail.com</Email>
+    <PLZ>83470</PLZ>
+    <Firma>Tabac du Montfleury</Firma>
+    <Land>FR</Land>
+    <Sprache>F</Sprache>
+    <Vertriebsgebiete>
+      <Vertriebsgebiet>Q</Vertriebsgebiet>
+      <Vertriebsgebiet>FR</Vertriebsgebiet>
+    </Vertriebsgebiete>
+  </Customer>
+  <Customer>
+    <Nummer>42502</Nummer>
+    <Email>2papeterie@librairie-anecdotes.fr</Email>
+    <PLZ>87000</PLZ>
+    <Firma>Librairie Anecdotes </Firma>
+    <Land>FR</Land>
+    <Sprache>F</Sprache>
+    <Vertriebsgebiete>
+      <Vertriebsgebiet>Q</Vertriebsgebiet>
+      <Vertriebsgebiet>FR</Vertriebsgebiet>
+    </Vertriebsgebiete>
+  </Customer>
+</Customers>

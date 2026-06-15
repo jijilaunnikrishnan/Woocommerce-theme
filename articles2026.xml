@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Products>
+  <Product>
+    <Barcode>5035327475281</Barcode>
+    <SKU>GLC26</SKU>
+    <Bezeichnung>Bag Large - Happy Birthday Stripe Blue</Bezeichnung>
+ <Bezeichnung>Du bist GROSSartig!</Bezeichnung>
+    <Zusatz></Zusatz>
+    <Listenpreis>2,25</Listenpreis>
+    <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>D</Value>
+      <Preis>2,25</Preis>
+    </Option>
+	   <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>FR</Value>
+      <Preis>1,25</Preis>
+    </Option>
+    <Option>
+      <Name>Vertriebsgebiet</Name>
+      <Value>Q</Value>
+      <Preis>3,25</Preis>
+    </Option>
+    <Available>false</Available>
+    <ShopAktiv>true</ShopAktiv>
+    <Künstlervorname></Künstlervorname>
+    <Künstlernachname></Künstlernachname>
+    <Title></Title>
+    <SEOKeywords></SEOKeywords>
+    <SEODescription>Neu, Neuheiten, New, nouveauté, Glick, Tasche, Geschenktasche, Bag, Geburtstagstüte, Tüte</SEODescription>
+    <VPE>3</VPE>
+    <Vertriebsgebiet>Q</Vertriebsgebiet>
+    <Category>Papeterie und Sonstiges,Papeterie und Sonstiges_Sonstiges,Papeterie und Sonstiges_Sonstiges_Geschenktaschen</Category>
+  </Product>
+</Products>
